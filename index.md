@@ -6,7 +6,7 @@ This is Kevin Z., a ...well, a non-geeky geek who has been doing something calle
 
 Eight years ago, I on-boarded.  Four years ago, I became a professional.  This year, however, I am back to academic.
 
-Currently pursuing a Master's degree in Sungkyunkwan University, South Korea, I feel rejuvenated.  Life seems on a right track again.
+Currently I am pursuing a Master's degree in Sungkyunkwan University, South Korea, feeling rejuvenated.  Life seems on a right track again.
 
 C++ is my buddy partner in crime, while SLAM is my date.
 
