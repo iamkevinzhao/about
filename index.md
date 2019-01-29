@@ -1,8 +1,8 @@
 ## Welcome to My Corner
 
-"There was a bird, once it flapped into the wind, it never landed."
+"There was a bird, once flapped into the wind, it never landed."
 
-This is Kevin Z.
+This is Kevin Zhao.
 
 A, ...well, a non-geeky geek who has been doing something called Technology. 
 
