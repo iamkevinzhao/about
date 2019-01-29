@@ -10,9 +10,9 @@ This is Kevin Zhao,
 
 Eight years ago, I on-boarded.
   Four years ago, I became a professional.
-    This year, however, I am back to academic.
+    This year, however, I have got back to academic.
 
-Currently I am a master student in Sungkyunkwan University, South Korea, 
+Studying at Sungkyunkwan University, South Korea, 
     feeling rejuvenated.
 Life seems on a right track again.
 
@@ -22,7 +22,8 @@ Coding is my buddy, partner in crime.
 Chn/Eng/Kor, I enjoy reading and writing.
 
 That is all about me, 
-    for those who checked out this corner.
+    for those who check out this corner,
+        with or without purpose.
 
 Peace!
 ```
