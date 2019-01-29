@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Corner
 
-You can use the [editor on GitHub](https://github.com/iamkevinzhao/about/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+"There was a bird, once it flapped into the wind, it never landed."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Kevin Z., a ...well, a non-geeky geek who has been doing something called Technology. 
 
-### Markdown
+Eight years ago, I on-boarded.  Four years ago, I became a professional.  This year, however, I am back to academic.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently pursuing a Master's degree in Sungkyunkwan University, South Korea, I feel rejuvenated.  Life seems on a right track again.
 
-```markdown
-Syntax highlighted code block
+C++ is my buddy partner in crime, while SLAM is my date.
 
-# Header 1
-## Header 2
-### Header 3
+Chn/Eng/Kor, I enjoy reading and writing.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamkevinzhao/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That's all about me, for those who accidentally clicked some links to this corner.  Peace!
