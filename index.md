@@ -2,7 +2,9 @@
 
 "There was a bird, once it flapped into the wind, it never landed."
 
-This is Kevin Z., a ...well, a non-geeky geek who has been doing something called Technology. 
+This is Kevin Z.
+
+A, ...well, a non-geeky geek who has been doing something called Technology. 
 
 Eight years ago, I on-boarded.  Four years ago, I became a professional.  This year, however, I am back to academic.
 
