@@ -14,7 +14,7 @@ Eight years ago, I on-boarded.
 
 Studying at Sungkyunkwan University, South Korea, 
     feeling rejuvenated.
-Life seems on a right track again.
+  Life seems on a right track again.
 
 Coding is my buddy, partner in crime.
   SLAM is my date.
