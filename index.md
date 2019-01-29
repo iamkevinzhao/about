@@ -16,13 +16,13 @@ Currently I am a master student in Sungkyunkwan University, South Korea,
     feeling rejuvenated.
 Life seems on a right track again.
 
-C++ is my buddy, partner in crime.
+Coding is my buddy, partner in crime.
   SLAM is my date.
 
 Chn/Eng/Kor, I enjoy reading and writing.
 
 That is all about me, 
-    for those who accidentally clicked into this corner.
+    for those who checked out this corner.
 
 Peace!
 ```
