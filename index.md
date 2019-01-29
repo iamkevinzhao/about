@@ -12,4 +12,4 @@ C++ is my buddy partner in crime, while SLAM is my date.
 
 Chn/Eng/Kor, I enjoy reading and writing.
 
-That is all about me, for those who accidentally clicked some links to this corner.  Peace!
+That is all about me, for those who accidentally clicked to this corner.  Peace!
